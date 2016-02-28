@@ -17,4 +17,4 @@
 /tmp
 
 #Ignore a secret-log file
-/config/secrets.yml
+#/config/secrets.yml
